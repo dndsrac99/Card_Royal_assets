@@ -1,7 +1,7 @@
 {
   "version": 2.12,
   "cardset_id": "68a6c1fb-5733-446b-be53-16d89da7c28a",
-  "name": "UNNAMED",
+  "name": "RuleSet",
   "blueprint_id": "baf56563-a921-440a-bd69-3576b9e44351",
   "hint_order_index": 3,
   "cards": [
@@ -14,6 +14,7 @@
           "panels": [
             {
               "blueprint_panel_id": "18be4e33-72cf-475c-a7e7-53dbc5924545",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Icons:\n <size=6>Weapons </size>\n<size=7> {Body&Actions/punch}: Unarmed\n  {Weapons/two-handed-sword}: Bladed Weapon\n  {Creatures/claw-hammer}: Blunt Weapon \n  {Cinema/pistol-gun}: Ranged Weapon\n {Weapons/two-handed-sword} {Abstract/play-button}  {Creatures/claw-hammer} {Abstract/play-button} {Cinema/pistol-gun}\n</size>\n\n<size=6>Gameflow:</size><size=7> \n   1. Flip a coin to decide who starts\n   2. Both player pulls 5 cards\nDraw Phase:\n   The player can pull one card from their deck.\nStrategy Phase:\nThe First player can put one mana card on the field.\n   The same player then builds up their battlefield with Hero, Equipment, Vehicle and Tactic cards.\n   When the starting player is done with their Strategy Phase, the other player is having his.\nBattle Phase:\n   The first player can declare an attack. \n   The second player can react with a tactic card or let the attack through.\n   After the first player it's the second player's turn to do the same.\n   You can attack as long as you have available heroes.\n\n  \n   \n\n</size>"

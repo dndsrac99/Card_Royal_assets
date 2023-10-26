@@ -721,6 +721,7 @@
           "panels": [
             {
               "blueprint_panel_id": "655eb452-7f0a-46cd-9f92-50031ba1486a",
+              "rotation": 0,
               "type": "icon",
               "data": {
                 "uri": "Other/concentration-orb",

@@ -12,6 +12,6 @@
   "pdf_intercalate_pages": false,
   "tts_grid": "10, 7",
   "export_images": true,
-  "export_pdf": false,
+  "export_pdf": true,
   "export_tts": false
 }

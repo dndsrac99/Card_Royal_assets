@@ -105,6 +105,7 @@
           "panels": [
             {
               "blueprint_panel_id": "e9fb6635-0374-44b6-97f9-7a1810622722",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "offset": "0.04219593, 0.009687842"
@@ -117,6 +118,7 @@
           "panels": [
             {
               "blueprint_panel_id": "70bd0e52-8f99-42c8-86c5-efc78cf291ec",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "tint": "#3E3E3FFF"
@@ -129,6 +131,7 @@
           "panels": [
             {
               "blueprint_panel_id": "f9d8578d-5669-4598-9bff-0ab05deaac00",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "tint": "#3E3E3FFF"
@@ -136,6 +139,7 @@
             },
             {
               "blueprint_panel_id": "a907858c-0012-43cc-80b5-14af341929fa",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "tint": "#3E3E3FFF"
@@ -143,6 +147,7 @@
             },
             {
               "blueprint_panel_id": "1b81519b-4e27-4447-9933-9024a71e5e44",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "tint": "#3E3E3FFF"
@@ -155,6 +160,7 @@
           "panels": [
             {
               "blueprint_panel_id": "471db439-4d72-4ec6-a2e7-78a3463669c2",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Miskolc.jpg",
@@ -163,6 +169,7 @@
             },
             {
               "blueprint_panel_id": "600545a1-190b-4375-aecf-6333f1165104",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Black Mana - Miskolc",

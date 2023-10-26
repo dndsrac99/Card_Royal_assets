@@ -1,0 +1,67 @@
+{
+  "version": 2.12,
+  "cardset_id": "bb3c957c-9230-4c9a-a70a-1508c02b8a40",
+  "name": "EQUIPMENT",
+  "blueprint_id": "6546e69b-20e8-4394-a9f0-741f670b2371",
+  "hint_order_index": 4,
+  "cards": [
+    {
+      "card_id": "e15bc26c-6782-444b-b3ce-d27ee13f6e1c",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "a26b5445-864c-4774-9676-d7c54069a274",
+          "panels": [
+            {
+              "blueprint_panel_id": "aef9d9c2-3eaf-4529-a266-eec867b861f1",
+              "type": "icon",
+              "data": {
+                "uri": "Cinema/pistol-gun",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "092ac375-ac7f-4fc7-97f9-f7aec59827c2",
+              "type": "text",
+              "data": {
+                "text": "<i>A modular and adaptable weapon that can change its parts to suit different scenarios. It has a non-reciprocating charging handle, a three-position gas regulator, and four Picatinny rails.</i>",
+                "outline_length": 1.0
+              }
+            },
+            {
+              "blueprint_panel_id": "5e2668cf-c953-4c75-8f52-75482b48d8f1",
+              "type": "text",
+              "data": {
+                "text": "+ 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a8077041-4090-4800-bf78-06b9e3b5f303",
+              "type": "text",
+              "data": {
+                "text": "+ 5"
+              }
+            },
+            {
+              "blueprint_panel_id": "22e94d75-1e86-4152-b666-5844290f7eed",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/IMG_1120.JPG",
+                "zoom": 1.2,
+                "offset": "0.02192228, 0.08612083"
+              }
+            },
+            {
+              "blueprint_panel_id": "51f6c31f-aa80-4d63-bc4a-6d034673ca30",
+              "type": "text",
+              "data": {
+                "text": "CZ BREN 2"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

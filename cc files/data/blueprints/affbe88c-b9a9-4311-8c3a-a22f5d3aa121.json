@@ -127,7 +127,7 @@
             "offset": "0, 0",
             "tint": "#FF8200FF"
           },
-          "sort_mode": "3",
+          "sort_mode": "2",
           "split_mode": "horizontal",
           "parent_panel_id": "b6817975-57d0-40c9-af90-95fa5acfc6df"
         },
@@ -154,7 +154,7 @@
             "offset": "0, 0",
             "tint": "#FF8200FF"
           },
-          "sort_mode": "5",
+          "sort_mode": "4",
           "split_mode": "horizontal",
           "parent_panel_id": "b6817975-57d0-40c9-af90-95fa5acfc6df"
         },
@@ -181,7 +181,7 @@
             "offset": "0, 0",
             "tint": "#FF8200FF"
           },
-          "sort_mode": "7",
+          "sort_mode": "5",
           "split_mode": "vertical",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -216,7 +216,7 @@
             "offset": "0, 0",
             "tint": "#FF8200FF"
           },
-          "sort_mode": "9",
+          "sort_mode": "7",
           "split_mode": "vertical",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -263,7 +263,7 @@
           "anchor_max_render": "0.9831958, 0.9265289",
           "type": "none",
           "data": {},
-          "sort_mode": "4",
+          "sort_mode": "6",
           "split_mode": "horizontal",
           "parent_panel_id": "2d1f2538-96dc-4e1d-8953-01c04be30328"
         },
@@ -290,7 +290,7 @@
             "offset": "0, 0",
             "tint": "#0000004E"
           },
-          "sort_mode": "8",
+          "sort_mode": "9",
           "split_mode": "horizontal",
           "parent_panel_id": "2d1f2538-96dc-4e1d-8953-01c04be30328"
         },
@@ -317,7 +317,7 @@
             "offset": "0, 0",
             "tint": "#FF8200FF"
           },
-          "sort_mode": "6",
+          "sort_mode": "8",
           "split_mode": "horizontal",
           "parent_panel_id": "2d1f2538-96dc-4e1d-8953-01c04be30328"
         },
@@ -344,7 +344,7 @@
             "offset": "0, 0",
             "tint": "#FF8200FF"
           },
-          "sort_mode": "2",
+          "sort_mode": "3",
           "split_mode": "vertical",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
