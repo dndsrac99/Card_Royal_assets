@@ -1,0 +1,91 @@
+{
+  "version": 2.12,
+  "cardset_id": "b2b62263-e69d-42a8-b101-53add05702d4",
+  "name": "Mana Cards",
+  "blueprint_id": "affbe88c-b9a9-4311-8c3a-a22f5d3aa121",
+  "hint_order_index": 2,
+  "cards": [
+    {
+      "card_id": "2d8681b4-36aa-4cec-b8c0-6fafdcc006b2",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "e7c39712-508c-4e81-ac7e-bfa09b899187",
+          "panels": [
+            {
+              "blueprint_panel_id": "600545a1-190b-4375-aecf-6333f1165104",
+              "type": "text",
+              "data": {
+                "text": "Orange Mana - Budapest"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "5971bfbe-ea31-493c-a5ea-1d08dd6914eb",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "da53ac0e-3e63-49a3-a011-cb9b9bd7974f",
+          "panels": [
+            {
+              "blueprint_panel_id": "70bd0e52-8f99-42c8-86c5-efc78cf291ec",
+              "type": "image",
+              "data": {
+                "tint": "#AD0D00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "72f7f9a3-57b5-4f04-a825-2518dbcb30ac",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "c468c335-f29f-4169-8962-7203a48da691",
+              "enabled": false
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5c9b6be6-94a7-47f3-bd00-ad1d7e0953bc",
+          "panels": [
+            {
+              "blueprint_panel_id": "f9d8578d-5669-4598-9bff-0ab05deaac00",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "a907858c-0012-43cc-80b5-14af341929fa",
+              "enabled": false
+            },
+            {
+              "blueprint_panel_id": "1b81519b-4e27-4447-9933-9024a71e5e44",
+              "enabled": false
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "e7c39712-508c-4e81-ac7e-bfa09b899187",
+          "panels": [
+            {
+              "blueprint_panel_id": "471db439-4d72-4ec6-a2e7-78a3463669c2",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/comferenceroom.jpg",
+                "zoom": 1.60000014,
+                "offset": "-0.02715614, -0.3707114"
+              }
+            },
+            {
+              "blueprint_panel_id": "600545a1-190b-4375-aecf-6333f1165104",
+              "type": "text",
+              "data": {
+                "text": "Red Mana - Conference Room"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
