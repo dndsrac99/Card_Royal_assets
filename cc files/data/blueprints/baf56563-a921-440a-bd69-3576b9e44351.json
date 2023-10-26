@@ -141,7 +141,7 @@
           "anchor_max_render": "0.9622267, 0.04921969",
           "type": "none",
           "data": {},
-          "sort_mode": "4",
+          "sort_mode": "3",
           "split_mode": "horizontal",
           "parent_panel_id": "e5c46afa-1c48-4f5b-bd64-1e1aef9b86ac"
         },
@@ -162,7 +162,7 @@
           "type": "text",
           "data": {
             "font_family": "",
-            "font_preferred_size": 15,
+            "font_preferred_size": 18,
             "line_spacing": 1.0,
             "text_anchor": "upperleft",
             "text": "Icons:\n <size=6>Weapons </size>\n<size=7> {Body&Actions/punch}: Unarmed\n  {Weapons/two-handed-sword}: Bladed Weapon\n  {Creatures/claw-hammer}: Blunt Weapon \n  {Cinema/pistol-gun}: Ranged Weapon\n {Weapons/two-handed-sword} {Abstract/play-button}  {Creatures/claw-hammer} {Abstract/play-button} {Cinema/pistol-gun}\n</size>\n\n<size=6>Gameflow:</size><size=7> \n   1. Flip a coin to decide who starts\n   2. Both player pulls 5 cards\nDraw Phase:\n   The player can pull one card from their deck.\nStrategy Phase:\n   Both players build up their battlefields with Hero, Equipment, Vehicle and Tactic cards.\n   When the starting player is done with their Strategy Phase, the other player is doing the same.\nBattle Phase:\n   The first player can declare an attack. \n   The second player can react with a tactic card or let the attack through.\n   After the first player it's the second player's turn to do the same.\n   You can attack as long as you have available heroes.\n\n  \n   \n\n</size>",
@@ -223,7 +223,7 @@
           "anchor_max_render": "0.9622267, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "8",
+          "sort_mode": "7",
           "split_mode": "horizontal",
           "parent_panel_id": "e5c46afa-1c48-4f5b-bd64-1e1aef9b86ac"
         },
@@ -243,7 +243,7 @@
           "anchor_max_render": "0.9999998, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "7",
+          "sort_mode": "8",
           "split_mode": "vertical",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -280,7 +280,7 @@
             "offset": "0, 0",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "3",
+          "sort_mode": "4",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }

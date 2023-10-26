@@ -14,6 +14,7 @@
           "panels": [
             {
               "blueprint_panel_id": "aef9d9c2-3eaf-4529-a266-eec867b861f1",
+              "rotation": 0,
               "type": "icon",
               "data": {
                 "uri": "Cinema/pistol-gun",
@@ -23,6 +24,7 @@
             },
             {
               "blueprint_panel_id": "092ac375-ac7f-4fc7-97f9-f7aec59827c2",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<i>A modular and adaptable weapon that can change its parts to suit different scenarios. It has a non-reciprocating charging handle, a three-position gas regulator, and four Picatinny rails.</i>",
@@ -31,6 +33,7 @@
             },
             {
               "blueprint_panel_id": "5e2668cf-c953-4c75-8f52-75482b48d8f1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+ 0"
@@ -38,6 +41,7 @@
             },
             {
               "blueprint_panel_id": "a8077041-4090-4800-bf78-06b9e3b5f303",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+ 5"
@@ -45,6 +49,7 @@
             },
             {
               "blueprint_panel_id": "22e94d75-1e86-4152-b666-5844290f7eed",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/IMG_1120.JPG",
@@ -54,6 +59,7 @@
             },
             {
               "blueprint_panel_id": "51f6c31f-aa80-4d63-bc4a-6d034673ca30",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "CZ BREN 2"
