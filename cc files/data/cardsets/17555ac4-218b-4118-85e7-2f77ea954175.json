@@ -693,7 +693,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Samu Raj"
+                "text": "Szamu Raj"
               }
             }
           ]
@@ -928,7 +928,7 @@
               "data": {
                 "uri": "%PROJECT%/Brazil.jpg",
                 "zoom": 1.30000007,
-                "offset": "-0.02729196, -0.252031"
+                "offset": "0.04561813, -0.2388165"
               }
             },
             {
@@ -969,7 +969,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "George Soros"
+                "text": "Brazil"
               }
             }
           ]
