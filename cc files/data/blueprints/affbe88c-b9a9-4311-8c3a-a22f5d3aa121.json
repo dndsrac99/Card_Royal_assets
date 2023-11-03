@@ -216,7 +216,7 @@
             "offset": "0, 0",
             "tint": "#FF8200FF"
           },
-          "sort_mode": "6",
+          "sort_mode": "5",
           "split_mode": "vertical",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -344,7 +344,7 @@
             "offset": "0, 0",
             "tint": "#FF8200FF"
           },
-          "sort_mode": "5",
+          "sort_mode": "6",
           "split_mode": "vertical",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }

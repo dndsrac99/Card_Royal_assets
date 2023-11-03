@@ -1,0 +1,191 @@
+{
+  "version": 2.12,
+  "cardset_id": "c342bf6c-ac07-48e5-bd87-909c795fbacf",
+  "name": "Vehicles",
+  "blueprint_id": "1fafddbc-b8e4-4ca0-89e1-75ef9f1f7633",
+  "hint_order_index": 5,
+  "cards": [
+    {
+      "card_id": "438cc2c8-7165-4665-aeae-5b1fc329c0f5",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "bb9b2817-e8f6-44af-a963-b4ab81caba57",
+          "panels": [
+            {
+              "blueprint_panel_id": "1dd81209-c27a-43cf-868b-de2ade8ff718",
+              "type": "text",
+              "data": {
+                "text": "Tank"
+              }
+            },
+            {
+              "blueprint_panel_id": "2f92d1b4-a5ac-4177-8e98-d3a6bf181bf2",
+              "type": "text",
+              "data": {
+                "text": "<i>A German tracked vehicle with a powerful turret and missiles.</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "6828ce85-f684-42a8-ab08-4d226806b549",
+              "type": "text",
+              "data": {
+                "text": "35"
+              }
+            },
+            {
+              "blueprint_panel_id": "3526a4cf-6f99-4b7f-ac30-a543e168ed71",
+              "type": "text",
+              "data": {
+                "text": "25"
+              }
+            },
+            {
+              "blueprint_panel_id": "c2f7978e-6e76-4103-9e87-03a0768f2e13",
+              "type": "text",
+              "data": {
+                "text": "10"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a0fe044-2842-49ff-8937-254dd459c87f",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/IMG_1108.JPG",
+                "zoom": 1.1,
+                "offset": "-0.003596214, -0.03116013"
+              }
+            },
+            {
+              "blueprint_panel_id": "eeb8871c-c7c6-49c0-914d-87ce5ab11fb0",
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/person}4",
+                "color": "#FF8200FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc3592de-05ea-4dde-bfcf-42f1efaeddbe",
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "14d4b5ba-4fef-41d3-9de3-656a96134176",
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "0b663ea8-2e81-46ca-a548-e867abdcdfad",
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "9225766f-5074-4760-9718-5b1d2d84b2fc",
+              "type": "text",
+              "data": {
+                "text": "Lynx KF41"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "09c86c58-6bb7-4d77-8a08-2c00bcb7a041",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "bb9b2817-e8f6-44af-a963-b4ab81caba57",
+          "panels": [
+            {
+              "blueprint_panel_id": "1dd81209-c27a-43cf-868b-de2ade8ff718",
+              "type": "text",
+              "data": {
+                "text": "Tank"
+              }
+            },
+            {
+              "blueprint_panel_id": "2f92d1b4-a5ac-4177-8e98-d3a6bf181bf2",
+              "type": "text",
+              "data": {
+                "text": "<i> A versatile jet fighter with advanced weapons and technology.</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "6828ce85-f684-42a8-ab08-4d226806b549",
+              "type": "text",
+              "data": {
+                "text": "12"
+              }
+            },
+            {
+              "blueprint_panel_id": "3526a4cf-6f99-4b7f-ac30-a543e168ed71",
+              "type": "text",
+              "data": {
+                "text": "40"
+              }
+            },
+            {
+              "blueprint_panel_id": "c2f7978e-6e76-4103-9e87-03a0768f2e13",
+              "type": "text",
+              "data": {
+                "text": "10"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a0fe044-2842-49ff-8937-254dd459c87f",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/IMG_1118.JPG",
+                "zoom": 1.80000019,
+                "offset": "-0.2569584, -0.008506701"
+              }
+            },
+            {
+              "blueprint_panel_id": "eeb8871c-c7c6-49c0-914d-87ce5ab11fb0",
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/person}1",
+                "color": "#FF8200FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc3592de-05ea-4dde-bfcf-42f1efaeddbe",
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/person}2"
+              }
+            },
+            {
+              "blueprint_panel_id": "14d4b5ba-4fef-41d3-9de3-656a96134176",
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "0b663ea8-2e81-46ca-a548-e867abdcdfad",
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "9225766f-5074-4760-9718-5b1d2d84b2fc",
+              "type": "text",
+              "data": {
+                "text": "Gripen Fighter"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

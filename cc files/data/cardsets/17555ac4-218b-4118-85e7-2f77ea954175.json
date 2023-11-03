@@ -134,7 +134,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Viktor Orban"
+                "text": "Victor"
               }
             }
           ]
@@ -482,7 +482,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "5"
+                "text": "6"
               }
             },
             {
@@ -764,7 +764,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "35"
+                "text": "32"
               }
             },
             {
@@ -772,7 +772,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "5"
+                "text": "7"
               }
             },
             {
@@ -831,7 +831,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "George Soros"
+                "text": "Joras Soren"
               }
             }
           ]
@@ -886,7 +886,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "<b>Breaking Bank</b>: If you summon this hero {Abstract/play-button} add <b>one red</b> and <b>one white mana</b> to your hand."
+                "text": "<b>Sleeping</b>: If this card didn't attack last turn {Abstract/play-button} You can either \n{Abstract/plain-circle}  Recover <b>2 HP</b> for this card\n {Abstract/plain-circle} Sacrifice this card and add \n      one <b>red mana</b> to your field"
               }
             },
             {
@@ -894,7 +894,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Politician"
+                "text": "Snoozer"
               }
             },
             {
@@ -902,7 +902,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "35"
+                "text": "10"
               }
             },
             {
@@ -918,7 +918,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "30"
+                "text": "15"
               }
             },
             {
@@ -936,7 +936,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{Abstract/plain-circle}2",
+                "text": "{Abstract/plain-circle}1",
                 "color": "#AD0D00FF"
               }
             },
@@ -969,7 +969,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Brazil"
+                "text": "Brazil X"
               }
             }
           ]

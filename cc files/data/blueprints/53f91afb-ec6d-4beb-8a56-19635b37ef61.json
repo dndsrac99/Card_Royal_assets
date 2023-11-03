@@ -1015,7 +1015,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "28",
+          "sort_mode": "27",
           "split_mode": "vertical",
           "parent_panel_id": "bcbda088-3005-489f-a5b6-dae776a1e894"
         },
@@ -1228,7 +1228,7 @@
             "offset": "-0.003596169, -0.1236616",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "27",
+          "sort_mode": "28",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
