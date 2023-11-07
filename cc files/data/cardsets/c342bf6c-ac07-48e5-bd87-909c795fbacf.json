@@ -14,6 +14,7 @@
           "panels": [
             {
               "blueprint_panel_id": "1dd81209-c27a-43cf-868b-de2ade8ff718",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Tank"
@@ -21,6 +22,7 @@
             },
             {
               "blueprint_panel_id": "2f92d1b4-a5ac-4177-8e98-d3a6bf181bf2",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<i>A German tracked vehicle with a powerful turret and missiles.</i>"
@@ -28,6 +30,7 @@
             },
             {
               "blueprint_panel_id": "6828ce85-f684-42a8-ab08-4d226806b549",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "35"
@@ -35,6 +38,7 @@
             },
             {
               "blueprint_panel_id": "3526a4cf-6f99-4b7f-ac30-a543e168ed71",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "25"
@@ -42,13 +46,15 @@
             },
             {
               "blueprint_panel_id": "c2f7978e-6e76-4103-9e87-03a0768f2e13",
+              "rotation": 0,
               "type": "text",
               "data": {
-                "text": "10"
+                "text": "25"
               }
             },
             {
               "blueprint_panel_id": "3a0fe044-2842-49ff-8937-254dd459c87f",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/IMG_1108.JPG",
@@ -58,6 +64,7 @@
             },
             {
               "blueprint_panel_id": "eeb8871c-c7c6-49c0-914d-87ce5ab11fb0",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "{Body&Actions/person}4",
@@ -66,6 +73,7 @@
             },
             {
               "blueprint_panel_id": "cc3592de-05ea-4dde-bfcf-42f1efaeddbe",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "\n"
@@ -73,6 +81,7 @@
             },
             {
               "blueprint_panel_id": "14d4b5ba-4fef-41d3-9de3-656a96134176",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "\n"
@@ -80,6 +89,7 @@
             },
             {
               "blueprint_panel_id": "0b663ea8-2e81-46ca-a548-e867abdcdfad",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "\n"
@@ -87,6 +97,7 @@
             },
             {
               "blueprint_panel_id": "9225766f-5074-4760-9718-5b1d2d84b2fc",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Lynx KF41"
@@ -101,17 +112,33 @@
       "amount": 1,
       "front_layers": [
         {
+          "blueprint_layer_id": "fe5d3a81-d622-450b-9dde-d06ca9374d9c",
+          "panels": [
+            {
+              "blueprint_panel_id": "effcbaa8-1ce1-462f-9f72-219e43f20f5c",
+              "type": "icon",
+              "data": {
+                "uri": "Cinema/jet-fighter",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        },
+        {
           "blueprint_layer_id": "bb9b2817-e8f6-44af-a963-b4ab81caba57",
           "panels": [
             {
               "blueprint_panel_id": "1dd81209-c27a-43cf-868b-de2ade8ff718",
+              "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Tank"
+                "text": "Fighter Jet"
               }
             },
             {
               "blueprint_panel_id": "2f92d1b4-a5ac-4177-8e98-d3a6bf181bf2",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<i> A versatile jet fighter with advanced weapons and technology.</i>"
@@ -119,6 +146,7 @@
             },
             {
               "blueprint_panel_id": "6828ce85-f684-42a8-ab08-4d226806b549",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "12"
@@ -126,20 +154,23 @@
             },
             {
               "blueprint_panel_id": "3526a4cf-6f99-4b7f-ac30-a543e168ed71",
+              "rotation": 0,
               "type": "text",
               "data": {
-                "text": "40"
+                "text": "35"
               }
             },
             {
               "blueprint_panel_id": "c2f7978e-6e76-4103-9e87-03a0768f2e13",
+              "rotation": 0,
               "type": "text",
               "data": {
-                "text": "10"
+                "text": "15"
               }
             },
             {
               "blueprint_panel_id": "3a0fe044-2842-49ff-8937-254dd459c87f",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/IMG_1118.JPG",
@@ -149,14 +180,16 @@
             },
             {
               "blueprint_panel_id": "eeb8871c-c7c6-49c0-914d-87ce5ab11fb0",
+              "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{Body&Actions/person}1",
+                "text": "{Body&Actions/person}2",
                 "color": "#FF8200FF"
               }
             },
             {
               "blueprint_panel_id": "cc3592de-05ea-4dde-bfcf-42f1efaeddbe",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "{Body&Actions/person}2"
@@ -164,6 +197,7 @@
             },
             {
               "blueprint_panel_id": "14d4b5ba-4fef-41d3-9de3-656a96134176",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "\n"
@@ -171,6 +205,7 @@
             },
             {
               "blueprint_panel_id": "0b663ea8-2e81-46ca-a548-e867abdcdfad",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "\n"
@@ -178,6 +213,7 @@
             },
             {
               "blueprint_panel_id": "9225766f-5074-4760-9718-5b1d2d84b2fc",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Gripen Fighter"
