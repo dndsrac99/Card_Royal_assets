@@ -73,7 +73,7 @@
             "offset": "-0.02371615, 0.02289641",
             "tint": "#254776FF"
           },
-          "sort_mode": "4",
+          "sort_mode": "1",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -101,7 +101,7 @@
           "anchor_max_render": "0.03953803, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "6",
+          "sort_mode": "5",
           "split_mode": "vertical",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -141,7 +141,7 @@
           "anchor_max_render": "0.962227, 0.04921967",
           "type": "none",
           "data": {},
-          "sort_mode": "8",
+          "sort_mode": "6",
           "split_mode": "horizontal",
           "parent_panel_id": "e5c46afa-1c48-4f5b-bd64-1e1aef9b86ac"
         },
@@ -172,7 +172,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "10",
+          "sort_mode": "8",
           "split_mode": "horizontal",
           "parent_panel_id": "e5c46afa-1c48-4f5b-bd64-1e1aef9b86ac"
         },
@@ -203,7 +203,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "12",
+          "sort_mode": "9",
           "split_mode": "horizontal",
           "parent_panel_id": "e5c46afa-1c48-4f5b-bd64-1e1aef9b86ac"
         },
@@ -223,7 +223,7 @@
           "anchor_max_render": "0.962227, 0.9999999",
           "type": "none",
           "data": {},
-          "sort_mode": "14",
+          "sort_mode": "11",
           "split_mode": "horizontal",
           "parent_panel_id": "e5c46afa-1c48-4f5b-bd64-1e1aef9b86ac"
         },
@@ -243,7 +243,7 @@
           "anchor_max_render": "1, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "15",
+          "sort_mode": "12",
           "split_mode": "vertical",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -280,7 +280,7 @@
             "offset": "0, 0",
             "tint": "#292A30FF"
           },
-          "sort_mode": "1",
+          "sort_mode": "2",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -315,7 +315,7 @@
             "offset": "-0.02371615, 0.02289641",
             "tint": "#254776FF"
           },
-          "sort_mode": "2",
+          "sort_mode": "3",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -343,7 +343,7 @@
           "anchor_max_render": "0.03953803, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "3",
+          "sort_mode": "4",
           "split_mode": "vertical",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -383,7 +383,7 @@
           "anchor_max_render": "0.962227, 0.04921967",
           "type": "none",
           "data": {},
-          "sort_mode": "5",
+          "sort_mode": "7",
           "split_mode": "horizontal",
           "parent_panel_id": "7cee4003-75f0-41ab-b423-7e1249ae133e"
         },
@@ -414,7 +414,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "7",
+          "sort_mode": "10",
           "split_mode": "horizontal",
           "parent_panel_id": "7cee4003-75f0-41ab-b423-7e1249ae133e"
         },
@@ -445,7 +445,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "9",
+          "sort_mode": "14",
           "split_mode": "horizontal",
           "parent_panel_id": "7cee4003-75f0-41ab-b423-7e1249ae133e"
         },
@@ -465,7 +465,7 @@
           "anchor_max_render": "0.962227, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "11",
+          "sort_mode": "13",
           "split_mode": "horizontal",
           "parent_panel_id": "7cee4003-75f0-41ab-b423-7e1249ae133e"
         },
@@ -485,7 +485,7 @@
           "anchor_max_render": "1, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "13",
+          "sort_mode": "15",
           "split_mode": "vertical",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }

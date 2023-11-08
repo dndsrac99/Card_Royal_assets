@@ -64,7 +64,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "30"
+                "text": "25"
               }
             },
             {
@@ -80,7 +80,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "60\t"
+                "text": "55          "
               }
             },
             {
@@ -414,6 +414,155 @@
       ]
     },
     {
+      "card_id": "26e8b9bd-4977-4cb3-94e5-8f4b2429e86b",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "71823e84-1fd7-4973-83c0-6ac3de0c0b49",
+          "panels": [
+            {
+              "blueprint_panel_id": "414866c1-e7c1-485e-9f74-9d3312684907",
+              "type": "image",
+              "data": {
+                "tint": "#3E3E3FFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "82588eae-b753-42a6-b723-200e1aebce76",
+          "panels": [
+            {
+              "blueprint_panel_id": "655eb452-7f0a-46cd-9f92-50031ba1486a",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/ages",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fd780760-2006-4822-aac5-c6b3e1a23511",
+          "panels": [
+            {
+              "blueprint_panel_id": "8f334754-feb9-4f34-b2a9-f4092ee70b24",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Weapon:"
+              }
+            },
+            {
+              "blueprint_panel_id": "42ba2cce-da7d-4e9e-acca-b1c8bfe55eec",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/punch}None"
+              }
+            },
+            {
+              "blueprint_panel_id": "60f160b7-c538-4fe8-9143-db7f1c33babc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Combo</b>: if you call this card{Basic/st3_playback_play} Every attack on a RUS and CHN Hero gets redirected at this card."
+              }
+            },
+            {
+              "blueprint_panel_id": "92384782-2757-4eeb-ac1a-94f54aea0cad",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Undrdog/HUN"
+              }
+            },
+            {
+              "blueprint_panel_id": "cff4dfa2-2de8-4320-b0b1-224e85db59db",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "20"
+              }
+            },
+            {
+              "blueprint_panel_id": "7f0d98a6-7eaf-40e4-a5a1-fcd174e78941",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "13"
+              }
+            },
+            {
+              "blueprint_panel_id": "ee7f97aa-6f6c-4eea-90c9-c0263053a61c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "25"
+              }
+            },
+            {
+              "blueprint_panel_id": "df446f32-d134-4afa-ae86-5d307f9fab6d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/MC_Isti.jpg",
+                "zoom": 1.1,
+                "offset": "-0.03615537, -0.3553076"
+              }
+            },
+            {
+              "blueprint_panel_id": "24205eff-c76a-4f64-b312-a2a9262be6e5",
+              "rotation": 0,
+              "padding": "0, 0, 0, 0",
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle} 1",
+                "color": "#767575FF",
+                "outline_length": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f81609a7-abac-42dc-bcb4-48ac8d0e1516",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle} 1",
+                "color": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "693b769c-1e06-4eba-ab1f-f972d2473746",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a7144d4-6d17-4957-a633-c8b17b11146d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": " Steve Macman"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "card_id": "e579ecb4-f094-4c69-8700-ae6d80478eeb",
       "amount": 1,
       "front_layers": [
@@ -466,7 +615,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "<b>Stun</b>: Instead of attacking {Basic/st3_playback_play} You can block an enemy hero from attacking for one turn."
+                "text": "<b>Stun</b>: Instead of attacking {Basic/st3_playback_play} You can block an <b>enemy hero</b> from attacking for one turn."
               }
             },
             {
@@ -601,7 +750,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{Body&Actions/punch} Gloves"
+                "text": "{Body&Actions/punch}Gloves"
               }
             },
             {
@@ -745,7 +894,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{Weapons/two-handed-sword} Katana "
+                "text": "{Weapons/two-handed-sword}Katana "
               }
             },
             {
@@ -1030,7 +1179,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "<b>The Force</b>: you can use 3 red mana {Abstract/play-button} You can send one enemy <b>Hero</b> card back to their hand."
+                "text": "<b>The Force</b>: you can use 3 red mana {Abstract/play-button} You can send one <b>enemy Hero</b> card back to their hand."
               }
             },
             {
@@ -1054,7 +1203,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "30"
+                "text": "35"
               }
             },
             {
@@ -1062,7 +1211,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "30"
+                "text": "65"
               }
             },
             {
@@ -1268,6 +1417,7 @@
           "panels": [
             {
               "blueprint_panel_id": "414866c1-e7c1-485e-9f74-9d3312684907",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "tint": "#AD0D00FF"
@@ -1401,6 +1551,155 @@
               "type": "text",
               "data": {
                 "text": "Bundespolizei"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "7c2642fd-0d1f-42aa-a68a-b9b4b3256bc7",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "71823e84-1fd7-4973-83c0-6ac3de0c0b49",
+          "panels": [
+            {
+              "blueprint_panel_id": "414866c1-e7c1-485e-9f74-9d3312684907",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#254776FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "82588eae-b753-42a6-b723-200e1aebce76",
+          "panels": [
+            {
+              "blueprint_panel_id": "655eb452-7f0a-46cd-9f92-50031ba1486a",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/ages",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fd780760-2006-4822-aac5-c6b3e1a23511",
+          "panels": [
+            {
+              "blueprint_panel_id": "8f334754-feb9-4f34-b2a9-f4092ee70b24",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Weapon:"
+              }
+            },
+            {
+              "blueprint_panel_id": "42ba2cce-da7d-4e9e-acca-b1c8bfe55eec",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Cinema/pistol-gun}Pistol"
+              }
+            },
+            {
+              "blueprint_panel_id": "60f160b7-c538-4fe8-9143-db7f1c33babc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Evasedrop:</b> You can use 2 blue mana {Basic/st3_playback_play} You can look at the top three cards of the enemy's deck, then rearrange them."
+              }
+            },
+            {
+              "blueprint_panel_id": "92384782-2757-4eeb-ac1a-94f54aea0cad",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Authority/RUS"
+              }
+            },
+            {
+              "blueprint_panel_id": "cff4dfa2-2de8-4320-b0b1-224e85db59db",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "20"
+              }
+            },
+            {
+              "blueprint_panel_id": "7f0d98a6-7eaf-40e4-a5a1-fcd174e78941",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "26"
+              }
+            },
+            {
+              "blueprint_panel_id": "ee7f97aa-6f6c-4eea-90c9-c0263053a61c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "30"
+              }
+            },
+            {
+              "blueprint_panel_id": "df446f32-d134-4afa-ae86-5d307f9fab6d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Agent Putin.JPG",
+                "zoom": 1.0,
+                "offset": "0.001920317, -0.3890412"
+              }
+            },
+            {
+              "blueprint_panel_id": "24205eff-c76a-4f64-b312-a2a9262be6e5",
+              "rotation": 0,
+              "padding": "0, 0, 0, 0",
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle} 3",
+                "color": "#254776FF",
+                "outline_length": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f81609a7-abac-42dc-bcb4-48ac8d0e1516",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": " "
+              }
+            },
+            {
+              "blueprint_panel_id": "693b769c-1e06-4eba-ab1f-f972d2473746",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a7144d4-6d17-4957-a633-c8b17b11146d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Agent-Putin"
               }
             }
           ]

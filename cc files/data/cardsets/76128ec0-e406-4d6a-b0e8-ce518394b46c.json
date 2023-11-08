@@ -1,7 +1,7 @@
 {
   "version": 2.12,
   "cardset_id": "76128ec0-e406-4d6a-b0e8-ce518394b46c",
-  "name": "Strategy",
+  "name": "Tactic",
   "blueprint_id": "133e4c56-d4e3-49fd-bf7d-eecd1e3d669c",
   "hint_order_index": 7,
   "cards": [
@@ -14,6 +14,7 @@
           "panels": [
             {
               "blueprint_panel_id": "ca94ab78-42e6-474c-b9da-0328283b78bc",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/dna.jpg",
@@ -22,6 +23,7 @@
             },
             {
               "blueprint_panel_id": "cb2cd5dd-8117-46a1-81b6-da8d5e2086b7",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Hungarian DNA"
@@ -34,6 +36,7 @@
           "panels": [
             {
               "blueprint_panel_id": "04069d4a-911b-4b22-88c0-349d44f8a933",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>Evade</b>: When being attacked{Basic/st3_playback_play} The first attack is going to be a miss."
@@ -41,6 +44,7 @@
             },
             {
               "blueprint_panel_id": "3e6db6e0-7bb3-4995-b03d-cf5d4cd96204",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "All of your Hungarian Cards (HUN) get +10 ATK and +10 DEF.\nYou can also choose a Hungarian (HUN), They gain the effect <i>Evade</i>."
@@ -48,6 +52,7 @@
             },
             {
               "blueprint_panel_id": "9b116d4f-3ec2-4f79-ae7c-8c9141df6f93",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Strategy Phase"
@@ -55,6 +60,7 @@
             },
             {
               "blueprint_panel_id": "6a82e75f-2993-4068-bcb7-8084b54e321a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "One Turn"

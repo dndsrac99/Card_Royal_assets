@@ -397,7 +397,7 @@
             "offset": "0, 0",
             "tint": "#00000088"
           },
-          "sort_mode": "19",
+          "sort_mode": "11",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -417,7 +417,7 @@
           "anchor_max_render": "1, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "18",
+          "sort_mode": "14",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -465,7 +465,7 @@
           "anchor_max_render": "0.05341729, 0.3730061",
           "type": "none",
           "data": {},
-          "sort_mode": "22",
+          "sort_mode": "16",
           "split_mode": "vertical",
           "parent_panel_id": "c93a7e92-b4ab-4e89-aa1a-5f7dfe3aaa70"
         },
@@ -505,7 +505,7 @@
           "anchor_max_render": "0.944951, 0.0392638",
           "type": "none",
           "data": {},
-          "sort_mode": "25",
+          "sort_mode": "19",
           "split_mode": "horizontal",
           "parent_panel_id": "06163ee7-439b-47a3-8ce7-94b5215e4291"
         },
@@ -536,7 +536,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "31",
+          "sort_mode": "21",
           "split_mode": "horizontal",
           "parent_panel_id": "06163ee7-439b-47a3-8ce7-94b5215e4291"
         },
@@ -567,7 +567,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "30",
+          "sort_mode": "23",
           "split_mode": "horizontal",
           "parent_panel_id": "06163ee7-439b-47a3-8ce7-94b5215e4291"
         },
@@ -629,7 +629,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "27",
+          "sort_mode": "24",
           "split_mode": "vertical",
           "parent_panel_id": "3aa402e4-3b83-47e8-92d7-ef1b257dd1e1"
         },
@@ -660,7 +660,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "28",
+          "sort_mode": "25",
           "split_mode": "vertical",
           "parent_panel_id": "3aa402e4-3b83-47e8-92d7-ef1b257dd1e1"
         },
@@ -680,7 +680,7 @@
           "anchor_max_render": "1, 0.3730061",
           "type": "none",
           "data": {},
-          "sort_mode": "23",
+          "sort_mode": "26",
           "split_mode": "vertical",
           "parent_panel_id": "c93a7e92-b4ab-4e89-aa1a-5f7dfe3aaa70"
         },
@@ -700,7 +700,7 @@
           "anchor_max_render": "1, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "20",
+          "sort_mode": "27",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -737,7 +737,7 @@
             "offset": "0, 0",
             "tint": "#3F6A75FF"
           },
-          "sort_mode": "11",
+          "sort_mode": "12",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -765,7 +765,7 @@
           "anchor_max_render": "0.1655883, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "12",
+          "sort_mode": "13",
           "split_mode": "vertical",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -805,7 +805,7 @@
           "anchor_max_render": "0.8210503, 0.5251648",
           "type": "none",
           "data": {},
-          "sort_mode": "13",
+          "sort_mode": "15",
           "split_mode": "horizontal",
           "parent_panel_id": "849a33c5-733b-4ec8-880e-01763261468c"
         },
@@ -832,7 +832,7 @@
             "offset": "-0.02562241, 6.399222E-08",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "14",
+          "sort_mode": "17",
           "split_mode": "horizontal",
           "parent_panel_id": "849a33c5-733b-4ec8-880e-01763261468c"
         },
@@ -852,7 +852,7 @@
           "anchor_max_render": "0.8210503, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "15",
+          "sort_mode": "20",
           "split_mode": "horizontal",
           "parent_panel_id": "849a33c5-733b-4ec8-880e-01763261468c"
         },
@@ -872,7 +872,7 @@
           "anchor_max_render": "1, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "16",
+          "sort_mode": "22",
           "split_mode": "vertical",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -900,7 +900,7 @@
           "anchor_max_render": "1, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "17",
+          "sort_mode": "18",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }

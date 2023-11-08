@@ -97,6 +97,78 @@
       ]
     },
     {
+      "card_id": "b355028c-fda5-4a4e-98a0-11dc6c4df896",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "da53ac0e-3e63-49a3-a011-cb9b9bd7974f",
+          "panels": [
+            {
+              "blueprint_panel_id": "70bd0e52-8f99-42c8-86c5-efc78cf291ec",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#254776FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "72f7f9a3-57b5-4f04-a825-2518dbcb30ac",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "c468c335-f29f-4169-8962-7203a48da691",
+              "enabled": false,
+              "rotation": 0
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "5c9b6be6-94a7-47f3-bd00-ad1d7e0953bc",
+          "panels": [
+            {
+              "blueprint_panel_id": "f9d8578d-5669-4598-9bff-0ab05deaac00",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "a907858c-0012-43cc-80b5-14af341929fa",
+              "enabled": false,
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "1b81519b-4e27-4447-9933-9024a71e5e44",
+              "enabled": false,
+              "rotation": 0
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "e7c39712-508c-4e81-ac7e-bfa09b899187",
+          "panels": [
+            {
+              "blueprint_panel_id": "471db439-4d72-4ec6-a2e7-78a3463669c2",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Red Squere.jpg",
+                "zoom": 1.0,
+                "offset": "-0.01699391, -0.1082473"
+              }
+            },
+            {
+              "blueprint_panel_id": "600545a1-190b-4375-aecf-6333f1165104",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Blue Mana - The Red Square"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "card_id": "33bd44b9-cca7-4f98-b542-e45ffa65f68f",
       "amount": 1,
       "front_layers": [
