@@ -1,0 +1,119 @@
+{
+  "version": 2.12,
+  "cardset_id": "48239faa-2899-44e7-b086-c3b53655cf7b",
+  "name": "DTC",
+  "blueprint_id": "9a771df3-1bb7-4afb-b809-45fb802a68f4",
+  "hint_order_index": 6,
+  "cards": [
+    {
+      "card_id": "3fcdeeba-6883-4971-9d1c-66316cd543ee",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "39536b76-93c2-4725-a3a9-0a8a91c75174",
+          "panels": [
+            {
+              "blueprint_panel_id": "a388052f-2dae-4d17-839b-8bcc22d50140",
+              "type": "image",
+              "data": {
+                "tint": "#3E3E3FFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "b4741f82-993c-4547-8b10-4f3c03f64d03",
+          "panels": [
+            {
+              "blueprint_panel_id": "38a6b86a-5ddc-405b-ac77-f5efabc383d1",
+              "type": "text",
+              "data": {
+                "text": "{Weapons/two-handed-sword}Sword"
+              }
+            },
+            {
+              "blueprint_panel_id": "239fd036-3543-4808-8e33-35034b51cf2e",
+              "type": "text",
+              "data": {
+                "text": "<b>Scouting:</b> If you call this card {Basic/st3_playback_play} you can select a card from your <b>enemies hand</b>, you can look at that card."
+              }
+            },
+            {
+              "blueprint_panel_id": "982b742a-1a86-42ae-a86a-10d52188ed9f",
+              "type": "text",
+              "data": {
+                "text": "Army"
+              }
+            },
+            {
+              "blueprint_panel_id": "8a325db5-f8dc-4ca0-9ff0-4dd0bf7ccec5",
+              "type": "text",
+              "data": {
+                "text": "20"
+              }
+            },
+            {
+              "blueprint_panel_id": "17f8fd44-96a7-4085-8f60-332feeea4f5f",
+              "type": "text",
+              "data": {
+                "text": "26"
+              }
+            },
+            {
+              "blueprint_panel_id": "7c0a678d-56aa-4313-9dc5-67d6ad6b31f8",
+              "type": "text",
+              "data": {
+                "text": "55"
+              }
+            },
+            {
+              "blueprint_panel_id": "27fda790-11ba-44c5-9fd6-51e2c370e843",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Black Army.jpg",
+                "offset": "0.02986162, -0.0466582"
+              }
+            },
+            {
+              "blueprint_panel_id": "aa26ab17-4d6c-49c4-8030-a1f62c19f3de",
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}2",
+                "color": "#FF8200FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "e9a5e212-a973-40d7-a421-49019528df6f",
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}2",
+                "color": "#767575FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "bec915d9-0d21-4ef2-af15-a70d5eb3c38b",
+              "type": "text",
+              "data": {
+                "text": " "
+              }
+            },
+            {
+              "blueprint_panel_id": "8f5637b0-c0f6-4b8a-b626-ece8694c5071",
+              "type": "text",
+              "data": {
+                "text": " "
+              }
+            },
+            {
+              "blueprint_panel_id": "62aa0588-eab8-45fb-9ec1-6d9a5d8ab1ea",
+              "type": "text",
+              "data": {
+                "text": "Black Army of Hungary"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
