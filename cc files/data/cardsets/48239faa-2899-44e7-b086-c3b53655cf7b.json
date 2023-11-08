@@ -14,6 +14,7 @@
           "panels": [
             {
               "blueprint_panel_id": "a388052f-2dae-4d17-839b-8bcc22d50140",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "tint": "#3E3E3FFF"
@@ -26,6 +27,7 @@
           "panels": [
             {
               "blueprint_panel_id": "38a6b86a-5ddc-405b-ac77-f5efabc383d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "{Weapons/two-handed-sword}Sword"
@@ -33,6 +35,7 @@
             },
             {
               "blueprint_panel_id": "239fd036-3543-4808-8e33-35034b51cf2e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>Scouting:</b> If you call this card {Basic/st3_playback_play} you can select a card from your <b>enemies hand</b>, you can look at that card."
@@ -40,6 +43,7 @@
             },
             {
               "blueprint_panel_id": "982b742a-1a86-42ae-a86a-10d52188ed9f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Army"
@@ -47,6 +51,7 @@
             },
             {
               "blueprint_panel_id": "8a325db5-f8dc-4ca0-9ff0-4dd0bf7ccec5",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "20"
@@ -54,6 +59,7 @@
             },
             {
               "blueprint_panel_id": "17f8fd44-96a7-4085-8f60-332feeea4f5f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "26"
@@ -61,6 +67,7 @@
             },
             {
               "blueprint_panel_id": "7c0a678d-56aa-4313-9dc5-67d6ad6b31f8",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "55"
@@ -68,6 +75,7 @@
             },
             {
               "blueprint_panel_id": "27fda790-11ba-44c5-9fd6-51e2c370e843",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Black Army.jpg",
@@ -76,6 +84,7 @@
             },
             {
               "blueprint_panel_id": "aa26ab17-4d6c-49c4-8030-a1f62c19f3de",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "{Abstract/plain-circle}2",
@@ -84,6 +93,7 @@
             },
             {
               "blueprint_panel_id": "e9a5e212-a973-40d7-a421-49019528df6f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "{Abstract/plain-circle}2",
@@ -92,6 +102,7 @@
             },
             {
               "blueprint_panel_id": "bec915d9-0d21-4ef2-af15-a70d5eb3c38b",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": " "
@@ -99,6 +110,7 @@
             },
             {
               "blueprint_panel_id": "8f5637b0-c0f6-4b8a-b626-ece8694c5071",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": " "
@@ -106,6 +118,7 @@
             },
             {
               "blueprint_panel_id": "62aa0588-eab8-45fb-9ec1-6d9a5d8ab1ea",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Black Army of Hungary"

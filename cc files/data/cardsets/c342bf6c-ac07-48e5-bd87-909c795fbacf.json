@@ -116,6 +116,7 @@
           "panels": [
             {
               "blueprint_panel_id": "effcbaa8-1ce1-462f-9f72-219e43f20f5c",
+              "rotation": 0,
               "type": "icon",
               "data": {
                 "uri": "Cinema/jet-fighter",

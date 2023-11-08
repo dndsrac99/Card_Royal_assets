@@ -56,7 +56,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Politician"
+                "text": "Authority/HUN"
               }
             },
             {
@@ -64,7 +64,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "15"
+                "text": "30"
               }
             },
             {
@@ -192,7 +192,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Fighter"
+                "text": "Fighter/HUN"
               }
             },
             {
@@ -328,7 +328,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Army"
+                "text": "Army/HUN"
               }
             },
             {
@@ -414,143 +414,6 @@
       ]
     },
     {
-      "card_id": "d5f06cc8-4088-4813-8acf-b045fc70449c",
-      "amount": 1,
-      "front_layers": [
-        {
-          "blueprint_layer_id": "82588eae-b753-42a6-b723-200e1aebce76",
-          "panels": [
-            {
-              "blueprint_panel_id": "655eb452-7f0a-46cd-9f92-50031ba1486a",
-              "rotation": 0,
-              "type": "icon",
-              "data": {
-                "uri": "Body&Actions/semi-closed-eye",
-                "color_tint": "#FFFFFFFF",
-                "color_background": "#00000000"
-              }
-            }
-          ]
-        },
-        {
-          "blueprint_layer_id": "fd780760-2006-4822-aac5-c6b3e1a23511",
-          "panels": [
-            {
-              "blueprint_panel_id": "8f334754-feb9-4f34-b2a9-f4092ee70b24",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Weapon:"
-              }
-            },
-            {
-              "blueprint_panel_id": "42ba2cce-da7d-4e9e-acca-b1c8bfe55eec",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "{Weapons/two-handed-sword}Sword"
-              }
-            },
-            {
-              "blueprint_panel_id": "60f160b7-c538-4fe8-9143-db7f1c33babc",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "<b>Scouting:</b> If you pay 3 black mana {Basic/st3_playback_play} you can for one turn increase one of the following stats by +15 \n{Abstract/plain-circle} ATK \n{Abstract/plain-circle} DEF\n"
-              }
-            },
-            {
-              "blueprint_panel_id": "92384782-2757-4eeb-ac1a-94f54aea0cad",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Fighter"
-              }
-            },
-            {
-              "blueprint_panel_id": "cff4dfa2-2de8-4320-b0b1-224e85db59db",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "6"
-              }
-            },
-            {
-              "blueprint_panel_id": "7f0d98a6-7eaf-40e4-a5a1-fcd174e78941",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "15"
-              }
-            },
-            {
-              "blueprint_panel_id": "ee7f97aa-6f6c-4eea-90c9-c0263053a61c",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "40"
-              }
-            },
-            {
-              "blueprint_panel_id": "df446f32-d134-4afa-ae86-5d307f9fab6d",
-              "rotation": 0,
-              "type": "image",
-              "data": {
-                "uri": "%PROJECT%/Black Army.jpg",
-                "zoom": 1.1,
-                "offset": "-0.04872631, -0.1770029"
-              }
-            },
-            {
-              "blueprint_panel_id": "24205eff-c76a-4f64-b312-a2a9262be6e5",
-              "rotation": 0,
-              "padding": "0, 0, 0, 0",
-              "type": "text",
-              "data": {
-                "text": "{Abstract/plain-circle} 2",
-                "color": "#FF8200FF",
-                "outline_length": 1.0,
-                "image_offset": "0, 0"
-              }
-            },
-            {
-              "blueprint_panel_id": "f81609a7-abac-42dc-bcb4-48ac8d0e1516",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "{Abstract/plain-circle}2",
-                "color": "#3E3E3FFF"
-              }
-            },
-            {
-              "blueprint_panel_id": "693b769c-1e06-4eba-ab1f-f972d2473746",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "\n"
-              }
-            },
-            {
-              "blueprint_panel_id": "6a7144d4-6d17-4957-a633-c8b17b11146d",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "\n"
-              }
-            },
-            {
-              "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Black Army of Hungary"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
       "card_id": "e579ecb4-f094-4c69-8700-ae6d80478eeb",
       "amount": 1,
       "front_layers": [
@@ -611,7 +474,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Fighter"
+                "text": "Fighter/BUL"
               }
             },
             {
@@ -687,6 +550,150 @@
               "type": "text",
               "data": {
                 "text": "Boxer"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "59b10448-714d-433a-98f9-bac61f26246c",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "71823e84-1fd7-4973-83c0-6ac3de0c0b49",
+          "panels": [
+            {
+              "blueprint_panel_id": "414866c1-e7c1-485e-9f74-9d3312684907",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "zoom": 1.0,
+                "tint": "#3E3E3FFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "82588eae-b753-42a6-b723-200e1aebce76",
+          "panels": [
+            {
+              "blueprint_panel_id": "46b21502-1507-4a7d-9df6-4f93582b618d",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "655eb452-7f0a-46cd-9f92-50031ba1486a",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/ba3_back_pain",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fd780760-2006-4822-aac5-c6b3e1a23511",
+          "panels": [
+            {
+              "blueprint_panel_id": "42ba2cce-da7d-4e9e-acca-b1c8bfe55eec",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/punch} Gloves"
+              }
+            },
+            {
+              "blueprint_panel_id": "60f160b7-c538-4fe8-9143-db7f1c33babc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Evade</b>: When being attacked{Basic/st3_playback_play} The first attack is going to be a miss."
+              }
+            },
+            {
+              "blueprint_panel_id": "92384782-2757-4eeb-ac1a-94f54aea0cad",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Fighter/BUL"
+              }
+            },
+            {
+              "blueprint_panel_id": "cff4dfa2-2de8-4320-b0b1-224e85db59db",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "10"
+              }
+            },
+            {
+              "blueprint_panel_id": "7f0d98a6-7eaf-40e4-a5a1-fcd174e78941",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "25"
+              }
+            },
+            {
+              "blueprint_panel_id": "ee7f97aa-6f6c-4eea-90c9-c0263053a61c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "45"
+              }
+            },
+            {
+              "blueprint_panel_id": "df446f32-d134-4afa-ae86-5d307f9fab6d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Boxer_Sp.JPG",
+                "zoom": 1.1,
+                "offset": "0.003797024, -0.2966895"
+              }
+            },
+            {
+              "blueprint_panel_id": "24205eff-c76a-4f64-b312-a2a9262be6e5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/cycle}",
+                "color": "#767575FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "f81609a7-abac-42dc-bcb4-48ac8d0e1516",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}2",
+                "color": "#767575FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "693b769c-1e06-4eba-ab1f-f972d2473746",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a7144d4-6d17-4957-a633-c8b17b11146d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Boxer {Basic/st1_star} Combat Ready"
               }
             }
           ]
@@ -893,7 +900,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Politician"
+                "text": "Authority"
               }
             },
             {
@@ -1031,7 +1038,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Politician"
+                "text": "Authority"
               }
             },
             {
@@ -1170,7 +1177,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Snoozer"
+                "text": "Snoozer/BRA"
               }
             },
             {
@@ -1246,6 +1253,154 @@
               "type": "text",
               "data": {
                 "text": "Brazil X"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "e168f82f-b426-4c79-aecc-c947ad5d539d",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "71823e84-1fd7-4973-83c0-6ac3de0c0b49",
+          "panels": [
+            {
+              "blueprint_panel_id": "414866c1-e7c1-485e-9f74-9d3312684907",
+              "type": "image",
+              "data": {
+                "tint": "#AD0D00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "82588eae-b753-42a6-b723-200e1aebce76",
+          "panels": [
+            {
+              "blueprint_panel_id": "655eb452-7f0a-46cd-9f92-50031ba1486a",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/ages",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fd780760-2006-4822-aac5-c6b3e1a23511",
+          "panels": [
+            {
+              "blueprint_panel_id": "8f334754-feb9-4f34-b2a9-f4092ee70b24",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Weapon:"
+              }
+            },
+            {
+              "blueprint_panel_id": "42ba2cce-da7d-4e9e-acca-b1c8bfe55eec",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Cinema/pistol-gun}Guns"
+              }
+            },
+            {
+              "blueprint_panel_id": "60f160b7-c538-4fe8-9143-db7f1c33babc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Arsenal:</b> In the strategy phase {Basic/st3_playback_play} This card can equip {Creatures/claw-hammer}<b>Blunt</b> and {Cinema/pistol-gun}<b>Ranged</b> weapons."
+              }
+            },
+            {
+              "blueprint_panel_id": "92384782-2757-4eeb-ac1a-94f54aea0cad",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Authority/GER"
+              }
+            },
+            {
+              "blueprint_panel_id": "cff4dfa2-2de8-4320-b0b1-224e85db59db",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            },
+            {
+              "blueprint_panel_id": "7f0d98a6-7eaf-40e4-a5a1-fcd174e78941",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "12"
+              }
+            },
+            {
+              "blueprint_panel_id": "ee7f97aa-6f6c-4eea-90c9-c0263053a61c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "20"
+              }
+            },
+            {
+              "blueprint_panel_id": "df446f32-d134-4afa-ae86-5d307f9fab6d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Bundespolizei.jpg",
+                "zoom": 1.1,
+                "offset": "0.04748902, -0.4400114"
+              }
+            },
+            {
+              "blueprint_panel_id": "24205eff-c76a-4f64-b312-a2a9262be6e5",
+              "rotation": 0,
+              "padding": "0, 0, 0, 0",
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle} 1",
+                "color": "#AD0D00FF",
+                "outline_length": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f81609a7-abac-42dc-bcb4-48ac8d0e1516",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": " "
+              }
+            },
+            {
+              "blueprint_panel_id": "693b769c-1e06-4eba-ab1f-f972d2473746",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a7144d4-6d17-4957-a633-c8b17b11146d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Bundespolizei"
               }
             }
           ]
