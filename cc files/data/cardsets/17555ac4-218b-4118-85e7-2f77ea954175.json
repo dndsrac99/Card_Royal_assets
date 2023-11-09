@@ -130,11 +130,164 @@
               }
             },
             {
+              "blueprint_panel_id": "ae20974a-89fb-4b5a-976d-8fe94f1f240d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
               "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
               "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Victor"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "14619c74-8eb4-4829-b71d-51ff7bc98c2e",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "82588eae-b753-42a6-b723-200e1aebce76",
+          "panels": [
+            {
+              "blueprint_panel_id": "655eb452-7f0a-46cd-9f92-50031ba1486a",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/concentration-orb",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fd780760-2006-4822-aac5-c6b3e1a23511",
+          "panels": [
+            {
+              "blueprint_panel_id": "8f334754-feb9-4f34-b2a9-f4092ee70b24",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Weapon:"
+              }
+            },
+            {
+              "blueprint_panel_id": "42ba2cce-da7d-4e9e-acca-b1c8bfe55eec",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/punch}None"
+              }
+            },
+            {
+              "blueprint_panel_id": "60f160b7-c538-4fe8-9143-db7f1c33babc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Money laundering:</b> In the strategy phase {Basic/st3_playback_play} You can ignore the <b>Orange Hero</b> cost on a Vehicle. Once per turn."
+              }
+            },
+            {
+              "blueprint_panel_id": "92384782-2757-4eeb-ac1a-94f54aea0cad",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Authority/HUN"
+              }
+            },
+            {
+              "blueprint_panel_id": "cff4dfa2-2de8-4320-b0b1-224e85db59db",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "25"
+              }
+            },
+            {
+              "blueprint_panel_id": "7f0d98a6-7eaf-40e4-a5a1-fcd174e78941",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "25"
+              }
+            },
+            {
+              "blueprint_panel_id": "ee7f97aa-6f6c-4eea-90c9-c0263053a61c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "50"
+              }
+            },
+            {
+              "blueprint_panel_id": "df446f32-d134-4afa-ae86-5d307f9fab6d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Baro orban.jpg",
+                "zoom": 1.0,
+                "offset": "0.004061358, -0.1723549"
+              }
+            },
+            {
+              "blueprint_panel_id": "24205eff-c76a-4f64-b312-a2a9262be6e5",
+              "rotation": 0,
+              "padding": "0, 0, 0, 0",
+              "type": "text",
+              "data": {
+                "text": "{Abstract/cycle}",
+                "color": "#FF8200FF",
+                "outline_length": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f81609a7-abac-42dc-bcb4-48ac8d0e1516",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle} 2",
+                "color": "#FF8200FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "693b769c-1e06-4eba-ab1f-f972d2473746",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a7144d4-6d17-4957-a633-c8b17b11146d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "ae20974a-89fb-4b5a-976d-8fe94f1f240d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Victor {Basic/st1_star} Baron"
               }
             }
           ]
@@ -259,6 +412,14 @@
             },
             {
               "blueprint_panel_id": "6a7144d4-6d17-4957-a633-c8b17b11146d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "ae20974a-89fb-4b5a-976d-8fe94f1f240d",
               "rotation": 0,
               "type": "text",
               "data": {
@@ -402,6 +563,14 @@
               }
             },
             {
+              "blueprint_panel_id": "ae20974a-89fb-4b5a-976d-8fe94f1f240d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
               "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
               "rotation": 0,
               "type": "text",
@@ -414,21 +583,9 @@
       ]
     },
     {
-      "card_id": "26e8b9bd-4977-4cb3-94e5-8f4b2429e86b",
+      "card_id": "5f16bf17-0e4c-4659-bb48-3762c6690f19",
       "amount": 1,
       "front_layers": [
-        {
-          "blueprint_layer_id": "71823e84-1fd7-4973-83c0-6ac3de0c0b49",
-          "panels": [
-            {
-              "blueprint_panel_id": "414866c1-e7c1-485e-9f74-9d3312684907",
-              "type": "image",
-              "data": {
-                "tint": "#3E3E3FFF"
-              }
-            }
-          ]
-        },
         {
           "blueprint_layer_id": "82588eae-b753-42a6-b723-200e1aebce76",
           "panels": [
@@ -460,7 +617,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{Body&Actions/punch}None"
+                "text": "{Cinema/pistol-gun}Guns"
               }
             },
             {
@@ -468,7 +625,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "<b>Combo</b>: if you call this card{Basic/st3_playback_play} Every attack on a RUS and CHN Hero gets redirected at this card."
+                "text": "<i>A national law enforcement agency that serves under the Ministry of the Interior. It carries out various duties, such as patrolling, investigating, traffic control, and border protection.</i>"
               }
             },
             {
@@ -476,7 +633,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Undrdog/HUN"
+                "text": "Authority/HUN"
               }
             },
             {
@@ -484,7 +641,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "20"
+                "text": "10"
               }
             },
             {
@@ -492,7 +649,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "13"
+                "text": "15"
               }
             },
             {
@@ -500,7 +657,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "25"
+                "text": "20"
               }
             },
             {
@@ -508,9 +665,9 @@
               "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/MC_Isti.jpg",
-                "zoom": 1.1,
-                "offset": "-0.03615537, -0.3553076"
+                "uri": "%PROJECT%/Magyar_Police.JPG",
+                "zoom": 1.50000012,
+                "offset": "-0.03065922, -0.07763936"
               }
             },
             {
@@ -520,7 +677,7 @@
               "type": "text",
               "data": {
                 "text": "{Abstract/plain-circle} 1",
-                "color": "#767575FF",
+                "color": "#FF8200FF",
                 "outline_length": 1.0,
                 "image_offset": "0, 0"
               }
@@ -530,8 +687,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{Abstract/plain-circle} 1",
-                "color": "#FFFFFFFF"
+                "text": " "
               }
             },
             {
@@ -551,11 +707,19 @@
               }
             },
             {
+              "blueprint_panel_id": "ae20974a-89fb-4b5a-976d-8fe94f1f240d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
               "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": " Steve Macman"
+                "text": "Hungarian Police"
               }
             }
           ]
@@ -687,6 +851,14 @@
             },
             {
               "blueprint_panel_id": "6a7144d4-6d17-4957-a633-c8b17b11146d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "ae20974a-89fb-4b5a-976d-8fe94f1f240d",
               "rotation": 0,
               "type": "text",
               "data": {
@@ -838,11 +1010,278 @@
               }
             },
             {
+              "blueprint_panel_id": "ae20974a-89fb-4b5a-976d-8fe94f1f240d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
               "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
               "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Boxer {Basic/st1_star} Combat Ready"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "57020c22-dee0-418e-a5da-86a86e2ce530",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "71823e84-1fd7-4973-83c0-6ac3de0c0b49",
+          "panels": [
+            {
+              "blueprint_panel_id": "414866c1-e7c1-485e-9f74-9d3312684907",
+              "type": "image",
+              "data": {
+                "tint": "#3E3E3FFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fd780760-2006-4822-aac5-c6b3e1a23511",
+          "panels": [
+            {
+              "blueprint_panel_id": "42ba2cce-da7d-4e9e-acca-b1c8bfe55eec",
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/punch}None"
+              }
+            },
+            {
+              "blueprint_panel_id": "60f160b7-c538-4fe8-9143-db7f1c33babc",
+              "type": "text",
+              "data": {
+                "text": "<b>Limited Arsenal</b>: In the strategy phase{Basic/st3_playback_play} Can only equip {Creatures/claw-hammer}Blunt weapons."
+              }
+            },
+            {
+              "blueprint_panel_id": "92384782-2757-4eeb-ac1a-94f54aea0cad",
+              "type": "text",
+              "data": {
+                "text": "Underdog"
+              }
+            },
+            {
+              "blueprint_panel_id": "cff4dfa2-2de8-4320-b0b1-224e85db59db",
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            },
+            {
+              "blueprint_panel_id": "7f0d98a6-7eaf-40e4-a5a1-fcd174e78941",
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            },
+            {
+              "blueprint_panel_id": "ee7f97aa-6f6c-4eea-90c9-c0263053a61c",
+              "type": "text",
+              "data": {
+                "text": "15"
+              }
+            },
+            {
+              "blueprint_panel_id": "df446f32-d134-4afa-ae86-5d307f9fab6d",
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/dream_TradingCard.jpg",
+                "offset": "-0.003596214, -0.09156928"
+              }
+            },
+            {
+              "blueprint_panel_id": "24205eff-c76a-4f64-b312-a2a9262be6e5",
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}1",
+                "color": "#767575FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "f81609a7-abac-42dc-bcb4-48ac8d0e1516",
+              "type": "text",
+              "data": {
+                "text": " "
+              }
+            },
+            {
+              "blueprint_panel_id": "693b769c-1e06-4eba-ab1f-f972d2473746",
+              "type": "text",
+              "data": {
+                "text": " "
+              }
+            },
+            {
+              "blueprint_panel_id": "6a7144d4-6d17-4957-a633-c8b17b11146d",
+              "type": "text",
+              "data": {
+                "text": " "
+              }
+            },
+            {
+              "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
+              "type": "text",
+              "data": {
+                "text": "Gipsy Kids"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "26e8b9bd-4977-4cb3-94e5-8f4b2429e86b",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "71823e84-1fd7-4973-83c0-6ac3de0c0b49",
+          "panels": [
+            {
+              "blueprint_panel_id": "414866c1-e7c1-485e-9f74-9d3312684907",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#3E3E3FFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "82588eae-b753-42a6-b723-200e1aebce76",
+          "panels": [
+            {
+              "blueprint_panel_id": "655eb452-7f0a-46cd-9f92-50031ba1486a",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/ages",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fd780760-2006-4822-aac5-c6b3e1a23511",
+          "panels": [
+            {
+              "blueprint_panel_id": "8f334754-feb9-4f34-b2a9-f4092ee70b24",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Weapon:"
+              }
+            },
+            {
+              "blueprint_panel_id": "42ba2cce-da7d-4e9e-acca-b1c8bfe55eec",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/punch}None"
+              }
+            },
+            {
+              "blueprint_panel_id": "60f160b7-c538-4fe8-9143-db7f1c33babc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Combo</b>: if you call this card{Basic/st3_playback_play} Every attack on a RUS and CHN Herocarsa gets redirected at this card."
+              }
+            },
+            {
+              "blueprint_panel_id": "92384782-2757-4eeb-ac1a-94f54aea0cad",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Undrdog/HUN"
+              }
+            },
+            {
+              "blueprint_panel_id": "cff4dfa2-2de8-4320-b0b1-224e85db59db",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "20"
+              }
+            },
+            {
+              "blueprint_panel_id": "7f0d98a6-7eaf-40e4-a5a1-fcd174e78941",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "13"
+              }
+            },
+            {
+              "blueprint_panel_id": "ee7f97aa-6f6c-4eea-90c9-c0263053a61c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "25"
+              }
+            },
+            {
+              "blueprint_panel_id": "df446f32-d134-4afa-ae86-5d307f9fab6d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/MC_Isti.jpg",
+                "zoom": 1.1,
+                "offset": "-0.03615537, -0.3553076"
+              }
+            },
+            {
+              "blueprint_panel_id": "24205eff-c76a-4f64-b312-a2a9262be6e5",
+              "rotation": 0,
+              "padding": "0, 0, 0, 0",
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle} 1",
+                "color": "#767575FF",
+                "outline_length": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f81609a7-abac-42dc-bcb4-48ac8d0e1516",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle} 1",
+                "color": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "693b769c-1e06-4eba-ab1f-f972d2473746",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a7144d4-6d17-4957-a633-c8b17b11146d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": " Steve Macman"
               }
             }
           ]
@@ -994,6 +1433,455 @@
       ]
     },
     {
+      "card_id": "e168f82f-b426-4c79-aecc-c947ad5d539d",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "71823e84-1fd7-4973-83c0-6ac3de0c0b49",
+          "panels": [
+            {
+              "blueprint_panel_id": "414866c1-e7c1-485e-9f74-9d3312684907",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#AD0D00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "82588eae-b753-42a6-b723-200e1aebce76",
+          "panels": [
+            {
+              "blueprint_panel_id": "655eb452-7f0a-46cd-9f92-50031ba1486a",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/ages",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fd780760-2006-4822-aac5-c6b3e1a23511",
+          "panels": [
+            {
+              "blueprint_panel_id": "8f334754-feb9-4f34-b2a9-f4092ee70b24",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Weapon:"
+              }
+            },
+            {
+              "blueprint_panel_id": "42ba2cce-da7d-4e9e-acca-b1c8bfe55eec",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Cinema/pistol-gun}Guns"
+              }
+            },
+            {
+              "blueprint_panel_id": "60f160b7-c538-4fe8-9143-db7f1c33babc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Arsenal:</b> In the strategy phase {Basic/st3_playback_play} This card can equip {Creatures/claw-hammer}<b>Blunt</b> and {Cinema/pistol-gun}<b>Ranged</b> weapons."
+              }
+            },
+            {
+              "blueprint_panel_id": "92384782-2757-4eeb-ac1a-94f54aea0cad",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Authority/GER"
+              }
+            },
+            {
+              "blueprint_panel_id": "cff4dfa2-2de8-4320-b0b1-224e85db59db",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4"
+              }
+            },
+            {
+              "blueprint_panel_id": "7f0d98a6-7eaf-40e4-a5a1-fcd174e78941",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "12"
+              }
+            },
+            {
+              "blueprint_panel_id": "ee7f97aa-6f6c-4eea-90c9-c0263053a61c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "20"
+              }
+            },
+            {
+              "blueprint_panel_id": "df446f32-d134-4afa-ae86-5d307f9fab6d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Bundespolizei.jpg",
+                "zoom": 1.1,
+                "offset": "0.04748902, -0.4400114"
+              }
+            },
+            {
+              "blueprint_panel_id": "24205eff-c76a-4f64-b312-a2a9262be6e5",
+              "rotation": 0,
+              "padding": "0, 0, 0, 0",
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle} 1",
+                "color": "#AD0D00FF",
+                "outline_length": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f81609a7-abac-42dc-bcb4-48ac8d0e1516",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": " "
+              }
+            },
+            {
+              "blueprint_panel_id": "693b769c-1e06-4eba-ab1f-f972d2473746",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a7144d4-6d17-4957-a633-c8b17b11146d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "ae20974a-89fb-4b5a-976d-8fe94f1f240d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Bundespolizei"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "78b38178-da9b-40b6-a25a-5bbcefbda993",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "71823e84-1fd7-4973-83c0-6ac3de0c0b49",
+          "panels": [
+            {
+              "blueprint_panel_id": "414866c1-e7c1-485e-9f74-9d3312684907",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#AD0D00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "82588eae-b753-42a6-b723-200e1aebce76",
+          "panels": [
+            {
+              "blueprint_panel_id": "655eb452-7f0a-46cd-9f92-50031ba1486a",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/concentration-orb",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fd780760-2006-4822-aac5-c6b3e1a23511",
+          "panels": [
+            {
+              "blueprint_panel_id": "42ba2cce-da7d-4e9e-acca-b1c8bfe55eec",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/punch}None"
+              }
+            },
+            {
+              "blueprint_panel_id": "60f160b7-c538-4fe8-9143-db7f1c33babc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Sleeping</b>: If this card didn't attack last turn {Abstract/play-button} You can either \n{Abstract/plain-circle}  Recover <b>2 HP</b> for this card\n {Abstract/plain-circle} Sacrifice this card and add \n      one <b>red mana</b> to your field"
+              }
+            },
+            {
+              "blueprint_panel_id": "92384782-2757-4eeb-ac1a-94f54aea0cad",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Snoozer/BRA"
+              }
+            },
+            {
+              "blueprint_panel_id": "cff4dfa2-2de8-4320-b0b1-224e85db59db",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "10"
+              }
+            },
+            {
+              "blueprint_panel_id": "7f0d98a6-7eaf-40e4-a5a1-fcd174e78941",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "5"
+              }
+            },
+            {
+              "blueprint_panel_id": "ee7f97aa-6f6c-4eea-90c9-c0263053a61c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "15"
+              }
+            },
+            {
+              "blueprint_panel_id": "df446f32-d134-4afa-ae86-5d307f9fab6d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Brazil.jpg",
+                "zoom": 1.30000007,
+                "offset": "0.04561813, -0.2388165"
+              }
+            },
+            {
+              "blueprint_panel_id": "24205eff-c76a-4f64-b312-a2a9262be6e5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}1",
+                "color": "#AD0D00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "f81609a7-abac-42dc-bcb4-48ac8d0e1516",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}1"
+              }
+            },
+            {
+              "blueprint_panel_id": "693b769c-1e06-4eba-ab1f-f972d2473746",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a7144d4-6d17-4957-a633-c8b17b11146d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "ae20974a-89fb-4b5a-976d-8fe94f1f240d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Brazil X"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "4e6f7f82-1245-4b8b-81d4-e94b2ae6bf27",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "71823e84-1fd7-4973-83c0-6ac3de0c0b49",
+          "panels": [
+            {
+              "blueprint_panel_id": "414866c1-e7c1-485e-9f74-9d3312684907",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#AD0D00FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "82588eae-b753-42a6-b723-200e1aebce76",
+          "panels": [
+            {
+              "blueprint_panel_id": "655eb452-7f0a-46cd-9f92-50031ba1486a",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/concentration-orb",
+                "color_tint": "#FFFFFFFF",
+                "color_background": "#00000000"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fd780760-2006-4822-aac5-c6b3e1a23511",
+          "panels": [
+            {
+              "blueprint_panel_id": "42ba2cce-da7d-4e9e-acca-b1c8bfe55eec",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/punch}None"
+              }
+            },
+            {
+              "blueprint_panel_id": "60f160b7-c538-4fe8-9143-db7f1c33babc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Breaking Bank</b>: If you call this hero {Abstract/play-button} add <b>one red</b> to your hand."
+              }
+            },
+            {
+              "blueprint_panel_id": "92384782-2757-4eeb-ac1a-94f54aea0cad",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Authority"
+              }
+            },
+            {
+              "blueprint_panel_id": "cff4dfa2-2de8-4320-b0b1-224e85db59db",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "20"
+              }
+            },
+            {
+              "blueprint_panel_id": "7f0d98a6-7eaf-40e4-a5a1-fcd174e78941",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "20"
+              }
+            },
+            {
+              "blueprint_panel_id": "ee7f97aa-6f6c-4eea-90c9-c0263053a61c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "35"
+              }
+            },
+            {
+              "blueprint_panel_id": "df446f32-d134-4afa-ae86-5d307f9fab6d",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Darth soros 2.jpg",
+                "zoom": 1.1,
+                "offset": "-0.02000096, -0.3426448"
+              }
+            },
+            {
+              "blueprint_panel_id": "24205eff-c76a-4f64-b312-a2a9262be6e5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}4",
+                "color": "#AD0D00FF"
+              }
+            },
+            {
+              "blueprint_panel_id": "f81609a7-abac-42dc-bcb4-48ac8d0e1516",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": " "
+              }
+            },
+            {
+              "blueprint_panel_id": "693b769c-1e06-4eba-ab1f-f972d2473746",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a7144d4-6d17-4957-a633-c8b17b11146d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "ae20974a-89fb-4b5a-976d-8fe94f1f240d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Darth</i> - Jore Sores"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "card_id": "dd412755-486d-4ac6-87ec-9729ec3d35ba",
       "amount": 1,
       "front_layers": [
@@ -1113,6 +2001,14 @@
             },
             {
               "blueprint_panel_id": "6a7144d4-6d17-4957-a633-c8b17b11146d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "ae20974a-89fb-4b5a-976d-8fe94f1f240d",
               "rotation": 0,
               "type": "text",
               "data": {
@@ -1259,298 +2155,19 @@
               }
             },
             {
+              "blueprint_panel_id": "ae20974a-89fb-4b5a-976d-8fe94f1f240d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
               "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
               "rotation": 0,
               "type": "text",
               "data": {
                 "text": "  Jore Sores {Abstract/round-star} Emperor "
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "card_id": "78b38178-da9b-40b6-a25a-5bbcefbda993",
-      "amount": 1,
-      "front_layers": [
-        {
-          "blueprint_layer_id": "71823e84-1fd7-4973-83c0-6ac3de0c0b49",
-          "panels": [
-            {
-              "blueprint_panel_id": "414866c1-e7c1-485e-9f74-9d3312684907",
-              "rotation": 0,
-              "type": "image",
-              "data": {
-                "tint": "#AD0D00FF"
-              }
-            }
-          ]
-        },
-        {
-          "blueprint_layer_id": "82588eae-b753-42a6-b723-200e1aebce76",
-          "panels": [
-            {
-              "blueprint_panel_id": "655eb452-7f0a-46cd-9f92-50031ba1486a",
-              "rotation": 0,
-              "type": "icon",
-              "data": {
-                "uri": "Other/concentration-orb",
-                "color_tint": "#FFFFFFFF",
-                "color_background": "#00000000"
-              }
-            }
-          ]
-        },
-        {
-          "blueprint_layer_id": "fd780760-2006-4822-aac5-c6b3e1a23511",
-          "panels": [
-            {
-              "blueprint_panel_id": "42ba2cce-da7d-4e9e-acca-b1c8bfe55eec",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "{Body&Actions/punch}None"
-              }
-            },
-            {
-              "blueprint_panel_id": "60f160b7-c538-4fe8-9143-db7f1c33babc",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "<b>Sleeping</b>: If this card didn't attack last turn {Abstract/play-button} You can either \n{Abstract/plain-circle}  Recover <b>2 HP</b> for this card\n {Abstract/plain-circle} Sacrifice this card and add \n      one <b>red mana</b> to your field"
-              }
-            },
-            {
-              "blueprint_panel_id": "92384782-2757-4eeb-ac1a-94f54aea0cad",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Snoozer/BRA"
-              }
-            },
-            {
-              "blueprint_panel_id": "cff4dfa2-2de8-4320-b0b1-224e85db59db",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "10"
-              }
-            },
-            {
-              "blueprint_panel_id": "7f0d98a6-7eaf-40e4-a5a1-fcd174e78941",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "5"
-              }
-            },
-            {
-              "blueprint_panel_id": "ee7f97aa-6f6c-4eea-90c9-c0263053a61c",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "15"
-              }
-            },
-            {
-              "blueprint_panel_id": "df446f32-d134-4afa-ae86-5d307f9fab6d",
-              "rotation": 0,
-              "type": "image",
-              "data": {
-                "uri": "%PROJECT%/Brazil.jpg",
-                "zoom": 1.30000007,
-                "offset": "0.04561813, -0.2388165"
-              }
-            },
-            {
-              "blueprint_panel_id": "24205eff-c76a-4f64-b312-a2a9262be6e5",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "{Abstract/plain-circle}1",
-                "color": "#AD0D00FF"
-              }
-            },
-            {
-              "blueprint_panel_id": "f81609a7-abac-42dc-bcb4-48ac8d0e1516",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "{Abstract/plain-circle}1"
-              }
-            },
-            {
-              "blueprint_panel_id": "693b769c-1e06-4eba-ab1f-f972d2473746",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "\n"
-              }
-            },
-            {
-              "blueprint_panel_id": "6a7144d4-6d17-4957-a633-c8b17b11146d",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "\n"
-              }
-            },
-            {
-              "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Brazil X"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "card_id": "e168f82f-b426-4c79-aecc-c947ad5d539d",
-      "amount": 1,
-      "front_layers": [
-        {
-          "blueprint_layer_id": "71823e84-1fd7-4973-83c0-6ac3de0c0b49",
-          "panels": [
-            {
-              "blueprint_panel_id": "414866c1-e7c1-485e-9f74-9d3312684907",
-              "rotation": 0,
-              "type": "image",
-              "data": {
-                "tint": "#AD0D00FF"
-              }
-            }
-          ]
-        },
-        {
-          "blueprint_layer_id": "82588eae-b753-42a6-b723-200e1aebce76",
-          "panels": [
-            {
-              "blueprint_panel_id": "655eb452-7f0a-46cd-9f92-50031ba1486a",
-              "rotation": 0,
-              "type": "icon",
-              "data": {
-                "uri": "Body&Actions/ages",
-                "color_tint": "#FFFFFFFF",
-                "color_background": "#00000000"
-              }
-            }
-          ]
-        },
-        {
-          "blueprint_layer_id": "fd780760-2006-4822-aac5-c6b3e1a23511",
-          "panels": [
-            {
-              "blueprint_panel_id": "8f334754-feb9-4f34-b2a9-f4092ee70b24",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Weapon:"
-              }
-            },
-            {
-              "blueprint_panel_id": "42ba2cce-da7d-4e9e-acca-b1c8bfe55eec",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "{Cinema/pistol-gun}Guns"
-              }
-            },
-            {
-              "blueprint_panel_id": "60f160b7-c538-4fe8-9143-db7f1c33babc",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "<b>Arsenal:</b> In the strategy phase {Basic/st3_playback_play} This card can equip {Creatures/claw-hammer}<b>Blunt</b> and {Cinema/pistol-gun}<b>Ranged</b> weapons."
-              }
-            },
-            {
-              "blueprint_panel_id": "92384782-2757-4eeb-ac1a-94f54aea0cad",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Authority/GER"
-              }
-            },
-            {
-              "blueprint_panel_id": "cff4dfa2-2de8-4320-b0b1-224e85db59db",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "4"
-              }
-            },
-            {
-              "blueprint_panel_id": "7f0d98a6-7eaf-40e4-a5a1-fcd174e78941",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "12"
-              }
-            },
-            {
-              "blueprint_panel_id": "ee7f97aa-6f6c-4eea-90c9-c0263053a61c",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "20"
-              }
-            },
-            {
-              "blueprint_panel_id": "df446f32-d134-4afa-ae86-5d307f9fab6d",
-              "rotation": 0,
-              "type": "image",
-              "data": {
-                "uri": "%PROJECT%/Bundespolizei.jpg",
-                "zoom": 1.1,
-                "offset": "0.04748902, -0.4400114"
-              }
-            },
-            {
-              "blueprint_panel_id": "24205eff-c76a-4f64-b312-a2a9262be6e5",
-              "rotation": 0,
-              "padding": "0, 0, 0, 0",
-              "type": "text",
-              "data": {
-                "text": "{Abstract/plain-circle} 1",
-                "color": "#AD0D00FF",
-                "outline_length": 1.0,
-                "image_offset": "0, 0"
-              }
-            },
-            {
-              "blueprint_panel_id": "f81609a7-abac-42dc-bcb4-48ac8d0e1516",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": " "
-              }
-            },
-            {
-              "blueprint_panel_id": "693b769c-1e06-4eba-ab1f-f972d2473746",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "\n"
-              }
-            },
-            {
-              "blueprint_panel_id": "6a7144d4-6d17-4957-a633-c8b17b11146d",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "\n"
-              }
-            },
-            {
-              "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Bundespolizei"
               }
             }
           ]
@@ -1695,11 +2312,19 @@
               }
             },
             {
+              "blueprint_panel_id": "ae20974a-89fb-4b5a-976d-8fe94f1f240d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\n"
+              }
+            },
+            {
               "blueprint_panel_id": "1a958a14-339a-4740-b783-a4a2e494fc2a",
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Agent-Putin"
+                "text": "<i>Agent</i> - Vlad"
               }
             }
           ]
